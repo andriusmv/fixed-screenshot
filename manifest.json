@@ -1,1 +1,18 @@
-{"name": "screenshot-widget", "label": "Screenshot Widget", "widgetType": "widget", "version": "1.0.0", "exbVersion": "1.10", "author": "Converted by ChatGPT", "description": "A widget to take screenshots using html2canvas.", "license": "http://www.apache.org/licenses/LICENSE-2.0", "properties": {"hasSettingPage": False}, "translatedLocales": ["en"], "defaultSize": {"width": 300, "height": 200}}
+{
+  "name": "screenshot-widget",
+  "label": "Screenshot Widget",
+  "widgetType": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.10",
+  "author": "author",
+  "description": "A widget to take screenshots using html2canvas.",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": false
+  },
+  "translatedLocales": ["en"],
+  "defaultSize": {
+    "width": 300,
+    "height": 200
+  }
+}
