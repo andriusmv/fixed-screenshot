@@ -1,18 +1,19 @@
 {
   "name": "screenshot-widget",
   "label": "Screenshot Widget",
-  "widgetType": "widget",
-  "version": "1.0.0",
-  "exbVersion": "1.10",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
   "author": "author",
-  "description": "A widget to take screenshots using html2canvas.",
+  "description": "Takes screenshots using html2canvas.",
+  "copyright": "",
   "license": "http://www.apache.org/licenses/LICENSE-2.0",
-  "properties": {
-    "hasSettingPage": false
-  },
-  "translatedLocales": ["en"],
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
   "defaultSize": {
-    "width": 300,
-    "height": 200
+    "width": 800,
+    "height": 500
   }
 }
